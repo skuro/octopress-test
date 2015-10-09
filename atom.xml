@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://skuro.github.io/octopress-test/atom.xml" rel="self"/>
   <link href="http://skuro.github.io/octopress-test/"/>
-  <updated>2015-10-09T08:34:25+00:00</updated>
+  <updated>2015-10-09T09:20:41+00:00</updated>
   <id>http://skuro.github.io/octopress-test/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Another Foobar]]></title>
+    <link href="http://skuro.github.io/octopress-test/blog/2015/10/09/another-foobar/"/>
+    <updated>2015-10-09T08:47:56+00:00</updated>
+    <id>http://skuro.github.io/octopress-test/blog/2015/10/09/another-foobar</id>
+    <content type="html"><![CDATA[<p>this time, let&rsquo;s see if octopress can do it!
+an edit, just to trigget the build</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Just a Foobar]]></title>
