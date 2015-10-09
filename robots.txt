@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://skuro.github.io/octopress-test/sitemap.xml 
