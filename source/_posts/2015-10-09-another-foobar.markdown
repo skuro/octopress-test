@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "another foobar"
+title: "another foobar WWWWW"
 date: 2015-10-09 10:47:56 +0200
 comments: true
 categories: 
